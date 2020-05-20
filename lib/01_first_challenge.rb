@@ -1,6 +1,5 @@
 def first_challenge
-   epic_tragedy = {montagues:
-   {patriarch: {}}, 
+   epic_tragedy = {montagues:{}, 
     { 
    }
 end
